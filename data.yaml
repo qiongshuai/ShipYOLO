@@ -1,0 +1,5 @@
+names:
+  0: boat
+nc: 1
+train: "D:/pycharm/PycharmProjects/boat/output/train/images"
+val: "D:/pycharm/PycharmProjects/boat/output/val/images"
