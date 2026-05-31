@@ -63,4 +63,5 @@ ShipYOLO is a lightweight graphical software for small-target vessel detection i
 - The code is licensed under the MIT License.
 
 ### Screenshots
-The interface during the operation of ShipYOLO.(images/show.png)
+The interface during the operation of ShipYOLO.
+![ShipYOLO interface](images/show.png)
