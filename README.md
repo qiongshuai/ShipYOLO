@@ -68,3 +68,5 @@ You can dowload all dataset from https://www.kaggle.com/datasets/louisaberdeen/m
 ### Screenshots
 The interface during the operation of ShipYOLO.
 ![ShipYOLO interface](images/show.png)
+
+### Note: When running the program, you need to replace the paths in the program with the paths of your own dataset.
