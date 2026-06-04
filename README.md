@@ -50,7 +50,7 @@ You can dowload all dataset from https://www.kaggle.com/datasets/louisaberdeen/m
 - Execute the main program:  
   python main.py
 
-modeltraining.py and testresult.py are the code for model training and model testing, respectively. Because we provided the trained model parameter file（yolos.pt）, this program does not need to use these two files. 
+modeltraining.py and testresult.py are the code for model training and model testing, respectively. Because we provided the trained model parameter file（yolov10s.pt）, this program does not need to use these two files. 
 
 ### Run Detection
 - Single image detection: Click "Select Image File" to choose an image file, adjust the confidence threshold as needed, then click "Start Detection". A completion prompt will pop up when finished, and detection results will be displayed in the preview window and recorded in the result table.
